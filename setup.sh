@@ -1,3 +1,3 @@
 npx --yes skills add obra/superpowers -g -a codex -s brainstorming dispatching-parallel-agents executing-plans finishing-a-development-branch receiving-code-review requesting-code-review subagent-driven-development systematic-debugging test-driven-development using-git-worktrees using-superpowers verification-before-completion writing-plans writing-skills -y
-
+mkdir -p /opt/codex/skills/.system/
 cp -r /root/.agents/skills/* /opt/codex/skills/.system/
