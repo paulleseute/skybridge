@@ -1,1 +1,1 @@
-**Always start by invoking the using-superpowers**
+**Always start by invoking the using-superpowers** skill
