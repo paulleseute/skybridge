@@ -1,1 +1,6 @@
-** Always start by using the using-superpowers skill. **
+**Always start by:**
+
+1. Installing obra/superpowers skills:
+brainstorming dispatching-parallel-agents executing-plans finishing-a-development-branch receiving-code-review requesting-code-review subagent-driven-development systematic-debugging test-driven-development using-git-worktrees using-superpowers verification-before-completion writing-plans writing-skills
+
+2. Invoking the using-superpowers to begin.
