@@ -149,15 +149,32 @@
       },
       {
         "tab": "Showcase",
-        "pages": [
-          "showcase",
-          "showcase/auth",
-          "showcase/capitals",
-          "showcase/ecommerce-carousel",
-          "showcase/everything",
-          "showcase/investigation-game",
-          "showcase/productivity",
-          "showcase/times-up"
+        "groups": [
+          {
+            "group": "Overview",
+            "icon": "grid-2",
+            "pages": ["showcase"]
+          },
+          {
+            "group": "Examples",
+            "icon": "code",
+            "pages": [
+              "showcase/auth",
+              "showcase/capitals",
+              "showcase/ecommerce-carousel",
+              "showcase/everything",
+              "showcase/investigation-game",
+              "showcase/productivity",
+              "showcase/times-up"
+            ]
+          },
+          {
+            "group": "Built with Skybridge",
+            "icon": "building",
+            "pages": [
+              "showcase/cottages"
+            ]
+          }
         ]
       }
     ]
