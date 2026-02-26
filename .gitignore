@@ -2,3 +2,8 @@ node_modules
 dist
 *.tsbuildinfo
 .env
+
+# Skills
+.agents/
+.claude/skills/
+skills-lock.json
